@@ -19,7 +19,7 @@ end
 cd(scriptFolder); % %切换到当前路径
 
 % 可手动指定库路径；当前独立工作区默认指向主库的绝对路径
-customLibFolder = 'E:\OneDrive\GDS_Layout\202508_LT\matlab_photonic_gds_sim\lib';
+customLibFolder = '/home/wcli/mydata/FDTD_sim/matlab_photonic_gds_sim/lib';
 
 device_name = 'eu_mod_bend';
 
